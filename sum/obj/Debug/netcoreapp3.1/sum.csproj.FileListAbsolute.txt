@@ -1,0 +1,14 @@
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.exe
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.deps.json
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.json
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.dev.json
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.dll
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\bin\Debug\netcoreapp3.1\sum.pdb
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.csproj.AssemblyReference.cache
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfoInputs.cache
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfo.cs
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.csproj.CoreCompileInputs.cache
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.dll
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.pdb
+C:\Users\Tienn Vo\Desktop\Document\sum\sum\obj\Debug\netcoreapp3.1\sum.genruntimeconfig.cache
